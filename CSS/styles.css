@@ -67,11 +67,11 @@ p {
 }
 
 .button-started:hover {
-    opacity: .8;
+    opacity: 0.8;
 }
 
 .button-started:active {
-    opacity: .5;
+    opacity: 0.5;
 }
 
 a {
