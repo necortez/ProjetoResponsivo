@@ -29,8 +29,8 @@
 }
 
 img {
-    width: 456px;
-    height: 561px;
+    width: 356px;
+    height: 461px;
     position: relative;    
     top: 20%;
     right: 130px;
@@ -43,11 +43,11 @@ h1 {
 }
 
 p {
-    font-size: 28px;
+    font-size: 20px;
     line-height: 48px;
     opacity: 0.6;
     margin: 15px 0;
-    width: 540px;
+    width: 440px;
     text-align: justify;
 }
 
